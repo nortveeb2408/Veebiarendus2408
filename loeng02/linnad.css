@@ -1,0 +1,23 @@
+h1 {
+    color: darkgreen;
+}
+
+h3 {
+    color: yellow;
+}
+
+li {
+    color: blue;
+    font-size: 25px;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img {
+    width: 50%;
+}
+
+.eesti {
+    color: orangered;
+}
