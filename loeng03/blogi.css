@@ -1,0 +1,21 @@
+html {
+    font-family: "Roboto", sans-serif;   
+    font-size: 17px;
+}
+
+body {
+    background-color: darkcyan;
+}
+.konteiner {
+    background-color: #ececec;
+}
+
+.post-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.post-date {
+    font-size: 0.7rem;
+    font-family: "New Amsterdam", sans-serif;
+}
