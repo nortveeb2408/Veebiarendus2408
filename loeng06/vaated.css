@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.postitused {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post {
+    width: 50%;
+    padding: 1rem;
+}
+
+.post a:hover {
+    color: green;
+}
+
+.post > img {
+    display: block;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: center 10%;
+}
+
+.header {
+    width: 100%;
+    height: 25rem;
+    background-color: green;
+    background-image: url(./yks_pilt.png);
+    background-size: cover;
+    background-position: center;
+    background-position-y: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
